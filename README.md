@@ -1,9 +1,9 @@
-### Olá, eu sou o Carlos Antonio 👋
+### Olá, sou o Carlos Antonio 👋
 
 
 
 
-- 🔭 Gosto muito de programação
+- 🔭 Estudante de programação 
 
 <div align="center">
   <a href="https://github.com/Carlossx">
